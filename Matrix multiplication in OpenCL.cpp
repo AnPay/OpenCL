@@ -1,4 +1,4 @@
-
+//reference: http://www.es.ele.tue.nl/~mwijtvliet/5KK73/?page=mmopencl
 /*
 This document describes a matrix multiplication example application using OpenCL for Nvidia GPUs, the focus will be on the code structure for the host application and the OpenCL GPU kernels. For examples of optimization matrix multiplication please refer to the CUDA example documentation, most CUDA kernels will be very similar in a OpenCL implementation. This example can be found here. The source code for the OpenCL matrix multiplication example can be found here.
 Host code
